@@ -1,7 +1,4 @@
 Team Project
 Version 1.0
-<<<<<<< HEAD
 Feature A implemented
-=======
-Feature B implemented
->>>>>>> 57faa61e7e8083b8082a729212acaa779f0ee569
+
